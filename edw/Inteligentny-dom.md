@@ -1,0 +1,1 @@
+Ogólny zarys problemów i technologii które mogą być wykorzystane podczas budowania inteligentnego domu został przedstawiony w odpowiedzi na listy w dziale **Poczta** w [[edw-2024-04]]. Wykazano tam wady zastosowanie Arduino jako głównego procesora zarządzającego całym systemem. 
