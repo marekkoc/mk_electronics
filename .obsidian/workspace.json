@@ -1,0 +1,194 @@
+{
+  "main": {
+    "id": "e2de3cfbfa33f283",
+    "type": "split",
+    "children": [
+      {
+        "id": "07d6c78ab03c55bb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a89b6056ff2bfdf3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spis-elementow.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Spis-elementow"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "094f323ea78e6d20",
+    "type": "split",
+    "children": [
+      {
+        "id": "c181fc04e1e13691",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8d3501d429f19f4d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "f3f2c0fc7bec5947",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "38c6cba6a0278ae7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0a696eccb697532f",
+    "type": "split",
+    "children": [
+      {
+        "id": "f4cde10d722a6dd8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "003b49dc4efe2f16",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Spis-elementow.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Spis-elementow"
+            }
+          },
+          {
+            "id": "b2b36d953a284f70",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Spis-elementow.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Spis-elementow"
+            }
+          },
+          {
+            "id": "fecf090d62225ddb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "81153dac040ea468",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Spis-elementow.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Spis-elementow"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "a89b6056ff2bfdf3",
+  "lastOpenFiles": [
+    "README.md",
+    "Do-zrobienia-aktywnosc.md",
+    "Do-wyjasnienia-zagadnienia.md",
+    "Do-przeczytania.md",
+    "Do-obejrzenia.md",
+    "Do-nauczenia-sie.md",
+    "Do-kupienia.md",
+    "Ciekawe-kity-avt.md",
+    "projekty/wietrzenie-pomiar-sterowanie.md",
+    "projekty/system-do-sledzenia-trasy-gps.md",
+    "projekty/mk-Pomodoro.md",
+    "projekty/Do-zrobienia-projekty.md",
+    "kity-avt/AVT-1990.md",
+    "figs/AVT-1990-1.png",
+    "edw/Lutowanie.md",
+    "edw/Lampy.md",
+    "edw/Inteligentny-dom.md",
+    "edw/Czujnik-wilgotnosci-gleby.md",
+    "edw/numery/2024/edw-2024-04.md",
+    "Spis-elementow.md"
+  ]
+}
